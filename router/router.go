@@ -28,6 +28,6 @@ func RoutingInitialize() {
 func productRouter(router *gin.RouterGroup) {
 	// router.GET("/test", controller.Test)
 	router.POST("/create/products", controller.CreateProducts)
-	router.GET("/products/id",controller.GetProductsById)
+	router.GET("/products/id",controller.GetProductsByIds)
 
 }

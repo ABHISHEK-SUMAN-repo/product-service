@@ -1,6 +1,6 @@
 # product-service
 
-# download the user service
+# download the product service
 git clone https://github.com/ABHISHEK-SUMAN-repo/product-service.git
 
 # Download the PostgreSQL database
