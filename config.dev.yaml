@@ -1,0 +1,14 @@
+port: 5000
+base_path: product-service
+environment : dev
+SECRET : 12Q2i&$*&3weZyy6uOQWE4^!6
+products_table_name : products
+databases:
+  postgres:
+    host: localhost
+    port: 5432
+    user: postgres
+    password: 1234
+    name: postgres
+
+
